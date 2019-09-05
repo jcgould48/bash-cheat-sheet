@@ -31,3 +31,11 @@
 * What it does: Moves file(s) to chosen place
 * Tips and Tricks:
     * You can rename a file by having its "destination" be a new filename.
+  
+  ---
+  ### **`pwd`**
+
+  *Print working directory*
+
+  * Usage: `pwd`
+  * What it does: Prints working directory
