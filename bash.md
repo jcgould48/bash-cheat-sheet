@@ -40,13 +40,13 @@
   * Usage: `pwd`
   * What it does: Prints working directory
 
-  ---
+  ---       
   ### **`mkdir`**
 
   *Make directory*
 
   * Usage: `mkdir [directory name...]`
-  * What it does: Makes a new directory or directories
+  * What it does: Makes a new directory(ies)
   * Use flags:
     * `-p`: Makes parent directories given a path.
 
@@ -56,12 +56,18 @@
 *Make file*
 
 * Usage: `touch [file name...]`
-* What it does:
+* What it does: Makes a file(s)
 
 ---
 ### **`rm`**
 
 *Remove*
 
-* Usage: `rm []`
-* What it does: Removes files or directories
+* Usage: `rm [Directory or file name...]`
+* What it does: Removes file(s) or directory(ies)
+* Useful flags:
+    * `-rf`:  Necessary to remove directories
+
+    ---
+      
+
