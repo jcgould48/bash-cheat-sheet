@@ -1,4 +1,4 @@
-# The Monster BASH Cheat Sheets
+# The Monster BASH Cheat Sheet
 
 ### **`ls`**
 
@@ -33,9 +33,35 @@
     * You can rename a file by having its "destination" be a new filename.
   
   ---
-  ### **`pwd`**
+### **`pwd`**
 
   *Print working directory*
 
   * Usage: `pwd`
   * What it does: Prints working directory
+
+  ---
+  ### **`mkdir`**
+
+  *Make directory*
+
+  * Usage: `mkdir [directory name...]`
+  * What it does: Makes a new directory or directories
+  * Use flags:
+    * `-p`: Makes parent directories given a path.
+
+  ---
+### **`touch`**
+
+*Make file*
+
+* Usage: `touch [file name...]`
+* What it does:
+
+---
+### **`rm`**
+
+*Remove*
+
+* Usage: `rm []`
+* What it does: Removes files or directories
